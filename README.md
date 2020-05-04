@@ -1,6 +1,6 @@
 # Object Methods in JS Lab
 
-## Objectives
+## Objectives    
 * Create constructor functions
 * Add methods to a constructor function
 * Create objects from a constructor function
